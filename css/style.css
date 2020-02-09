@@ -18,6 +18,6 @@ h2 {
 }
 
 #tasks.completed {
-  background-color:204,204,204;
+  background-color:#ccc;
   text-decoration:underline;
 }
